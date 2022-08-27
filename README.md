@@ -36,7 +36,8 @@ https://user-images.githubusercontent.com/60841136/187031570-c4320872-7dd5-46f7-
 
 5. And of course you can save surface as .stl file by pressing ![p3d_save](https://user-images.githubusercontent.com/60841136/187031400-72def4e3-12d4-46cd-afbd-c37f4a2291be.png).
 
-Result: 
+Result: ![image](https://user-images.githubusercontent.com/60841136/187031653-db01337c-b075-410b-b160-36dccc6a9dec.png)
+
 
 ## References
 <a id="1">[1]</a> 
